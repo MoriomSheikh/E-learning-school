@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.top-ber {
+  background-color: aquamarine;
+  padding-bottom: 100px;
+  margin-bottom: 100px;
+
+}
+
+.topimg img {
+  width: 100px;
+}
+
+.navbar-brand img {
+  width: 200px;
+}
+
+.highilight {
+  color: purple;
+  font-size: 20px;
+}
+
+.card-body img {
+  width: 100px;
+}
+
+.card {
+  align-items: center;
+  justify-content: center;
+  border: none;
+  box-shadow: black;
+}
+
+.card-title {
+  padding-top: 25px;
+}
+
+.container {
+  margin-top: 50px;
+  margin-bottom: 100px;
+
+}
+
+.title {
+  color: blueviolet;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+.card2 {
+  background-color: beige;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.testimonial {
+  align-items: center;
+  justify-content: center;
+
+}
+
+.test {
+  margin-bottom: 50px;
+}
+
+.Man img {
+  width: 200px;
+}
+
+.review {
+  font-size: 25px;
+}
+
+.company img {
+  width: 150px;
+}
+
+.company {
+  margin-left: 100px;
+}
+
+.company h6 {
+  color: white;
+  padding-top: 30px;
+}
+
+h5 {
+  color: green;
+}
+
+.footer {
+  background-color: black;
+  padding: 100px 20px;
+}
+
+li {
+  color: white;
+}
